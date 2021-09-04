@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bgadd-brad
-- 👀 I’m interested in learning full-stack development until I find a niche. Ultimately I want to work in the industry.
-- 🌱 I’m currently learning Python and flask.
+- 👀 I’m interested in learning full-stack development until I find a niche. Or game dev. Ultimately I want to work in either industry.
 - 💞️ I’m looking to collaborate on...I honestly have no idea. More or less anything, actually.
 - 📫 How to reach me: @ bradleygad@gmail.com
 
