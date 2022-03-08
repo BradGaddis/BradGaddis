@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bgadd-brad
-- 👀 I’m interested in learning full-stack development until I find a niche. Or game dev. Ultimately I want to work in either industry.
-- 💞️ I’m looking to collaborate on...I honestly have no idea. More or less anything, actually.
+- 👀 I’m taking an interest in AI and Game Dev. 
+- 💞️ I’m looking to collaborate on...virtually anything. Particularly AI or Game Dev, but I am just now starting the AI learning adventure.
 - 📫 How to reach me: @ bradleygad@gmail.com
 
 <!---
