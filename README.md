@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bgadd-brad
-- 👀 I’m taking an interest in AI and Game Dev. 
-- 💞️ I’m looking to collaborate on...virtually anything. Particularly AI or Game Dev, but I am just now starting the AI learning adventure.
+- 👀 I’m taking an interest in AI, web-development, and game dev. 
+- 💞️ I’m looking to collaborate on any of the aformentioned.
 - 📫 How to reach me: @ bradleygad@gmail.com
 
 <!---
