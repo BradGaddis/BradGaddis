@@ -5,7 +5,7 @@
     @ https://www.twitch.tv/b_gadd
 - 💞️ I’m looking to collaborate on any of the aformentioned. I'd be more than happy to 
 - 📫 How to reach me:
-@ bradleygad@gmail.com
+@ bradleygad@protonmail.com
 @ https://www.youtube.com/channel/UC6RP-bPGFtEX-waHhUsEW5Q 
 @  https://www.twitch.tv/b_gadd
 
